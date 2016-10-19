@@ -1,0 +1,33 @@
+body{
+  background-color: #1d1f20;
+  color: #fff;
+  text-align: justify;
+  font-family: "Lucida Console";
+}
+
+input{
+  color: #000;
+}
+
+h1{
+  margin: 35px 0px;
+}
+
+#results{
+  margin-top: 20px;
+  color: #3c3;
+}
+
+#future{
+  color: #f83;
+  font-weight: bold;
+}
+
+.row{
+  margin: 15px;
+}
+
+#graphic{
+  background-color: #fff;
+  margin-top: 20px;
+}
